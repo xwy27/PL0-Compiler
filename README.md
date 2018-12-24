@@ -1,2 +1,2 @@
 # CompilersExp
-Experiment for Compilers Courser
+Experiment for Compilers Course
